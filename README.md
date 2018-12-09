@@ -1,2 +1,2 @@
-# Game-On-Mars
+# game-on-mars
 DirectX11 C++
